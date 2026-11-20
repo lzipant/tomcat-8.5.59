@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tomcat-coyote" />
+        <module name="tomcat-catalina-ant" />
+        <module name="tomcat-jni" />
+        <module name="tomcat-i18n-ko" />
+        <module name="tomcat-api" />
+        <module name="tomcat-catalina-jmx-remote" />
+        <module name="tomcat-jaspic-api" />
+        <module name="tomcat-annotations-api" />
+        <module name="tomcat-jasper-el" />
+        <module name="tomcat-websocket-api" />
+        <module name="tomcat-embed-core" />
+        <module name="tomcat-servlet-api" />
+        <module name="tomcat-jdbc (2)" />
+        <module name="tomcat-embed-jasper" />
+        <module name="tomcat-i18n-es" />
+        <module name="tomcat-dbcp" />
+        <module name="tomcat-catalina-ws" />
+        <module name="tomcat-i18n-ja" />
+        <module name="tomcat-el-api" />
+        <module name="tomcat-embed-websocket" />
+        <module name="tomcat-jasper" />
+        <module name="tomcat-embed-el" />
+        <module name="tomcat-i18n-de" />
+        <module name="tomcat-i18n-ru" />
+        <module name="tomcat-jsp-api" />
+        <module name="tomcat-tribes" />
+        <module name="tomcat-jdbc" />
+        <module name="tomcat-i18n-fr" />
+        <module name="tomcat-catalina" />
+        <module name="tomcat-jdbc (1)" />
+        <module name="tomcat-util-scan" />
+        <module name="tomcat-catalina-ha" />
+        <module name="tomcat-juli" />
+        <module name="tomcat-util" />
+        <module name="tomcat-i18n-zh-CN" />
+        <module name="tomcat-storeconfig" />
+        <module name="tomcat-websocket" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
